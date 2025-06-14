@@ -1,0 +1,43 @@
+[
+  {
+    "section": "Jan 2025: Tools in Data Science",
+    "url": "https://tds.s-anand.net/#/2025-01//README",
+    "content": [
+      "Tools in Data Scienceis a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+      "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
+      "But one critical subject that\u2019s rarely covered is: what tools should I pick and how do I become proficient in them?",
+      "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
+      "\u201cWe lost the documentation on quantum mechanics. You\u2019ll have to decode the regexes yourself.\u201d",
+      "In this course, we\u2019ve curated the most important tools people use in data science.",
+      "Learn them well. You\u2019ll be alotmore productivethan your peers.",
+      "Here\u2019s students\u2019 feedback:",
+      "Take Graded assignment 1to check if you\u2019re ready for this course.Please drop this course (do it in a later term) if you score low. It\u2019ll be too tough for you now.",
+      "You need agoodunderstanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
+      "But isn\u2019t this a data science course?Yes. Good data scientists are good programmers. Data scientists don\u2019t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+      "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are,someof the time, you need to write code for all of this yourself.",
+      "This course teaches you tools that will make you more productive. But youdoneed programming to learn many of them.",
+      "YouCANcopy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
+      "Why should you copy?Because in real life, there\u2019s no time to re-invent the wheel. You\u2019ll be working in teams on the shoulders of giants. It\u2019s important to learn how to do that well."
+    ]
+  },
+  {
+    "section": "Development Tools",
+    "url": "https://tds.s-anand.net/#/2025-01//../development-tools",
+    "content": []
+  },
+  {
+    "section": "Editor: VS Code",
+    "url": "https://tds.s-anand.net/#/2025-01//../vscode",
+    "content": []
+  },
+  {
+    "section": "Python tools: uv",
+    "url": "https://tds.s-anand.net/#/2025-01//../uv",
+    "content": []
+  },
+  {
+    "section": "JavaScript tools: npx",
+    "url": "https://tds.s-anand.net/#/2025-01//../npx",
+    "content": []
+  }
+]
