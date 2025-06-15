@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from rag import initialize_rag
+from app.rag import initialize_rag   
 
 app = FastAPI()
 qa_pipeline = initialize_rag()
