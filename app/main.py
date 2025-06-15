@@ -1,13 +1,14 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from app.rag import initialize_rag   
+from app.rag import initialize_rag   #Correct import for rag.py
+from app.scraper import scrape_course_content, scrape_discourse_posts  #import scraper functions if needed
 
 app = FastAPI()
 qa_pipeline = initialize_rag()
 
 class QuestionRequest(BaseModel):
     question: str
-    image: str = None  # optional
+    image: str = None  # Optional
 
 @app.get("/")
 def health_check():
@@ -23,5 +24,3 @@ async def answer_question(request: QuestionRequest):
             for doc in result["source_documents"]
         ]
     }
-
-
