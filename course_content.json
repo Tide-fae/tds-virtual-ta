@@ -5,25 +5,73 @@
     "content": [
       "Tools in Data Scienceis a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
       "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
-      "But one critical subject that\u2019s rarely covered is: what tools should I pick and how do I become proficient in them?",
+      "But one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?",
       "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
-      "\u201cWe lost the documentation on quantum mechanics. You\u2019ll have to decode the regexes yourself.\u201d",
-      "In this course, we\u2019ve curated the most important tools people use in data science.",
-      "Learn them well. You\u2019ll be alotmore productivethan your peers.",
-      "Here\u2019s students\u2019 feedback:",
-      "Take Graded assignment 1to check if you\u2019re ready for this course.Please drop this course (do it in a later term) if you score low. It\u2019ll be too tough for you now.",
+      "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+      "In this course, we’ve curated the most important tools people use in data science.",
+      "Learn them well. You’ll be alotmore productivethan your peers.",
+      "Here’s students’ feedback:",
+      "Take Graded assignment 1to check if you’re ready for this course.Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
       "You need agoodunderstanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
-      "But isn\u2019t this a data science course?Yes. Good data scientists are good programmers. Data scientists don\u2019t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+      "But isn’t this a data science course?Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
       "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are,someof the time, you need to write code for all of this yourself.",
       "This course teaches you tools that will make you more productive. But youdoneed programming to learn many of them.",
       "YouCANcopy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
-      "Why should you copy?Because in real life, there\u2019s no time to re-invent the wheel. You\u2019ll be working in teams on the shoulders of giants. It\u2019s important to learn how to do that well."
+      "Why should you copy?Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well.",
+      "To learn well, understandwhat you’re copying. If you’re short of time, prioritize.",
+      "To learn better, teachwhat you’ve learnt.",
+      "We cover 7 modules in 12 weeks",
+      "The content evolves with technology and feedback.\nTrack thecommit historyfor changes.",
+      "Released content:",
+      "Project 1to build an LLM-based automation agent.Discussion Thread",
+      "Work in progress:",
+      "Evaluations are mostly open Internet",
+      "Updates",
+      "Notes",
+      "Constantly check communications",
+      "Check these three links regularly to keep up with the course.",
+      "People who help you",
+      "Theirjobis to help you. Trouble them for your slightest doubts!",
+      "Course Links",
+      "Jan 2025 Links"
     ]
   },
   {
     "section": "Development Tools",
     "url": "https://tds.s-anand.net/#/2025-01//../development-tools",
-    "content": []
+    "content": [
+      "Tools in Data Scienceis a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+      "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
+      "But one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?",
+      "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
+      "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+      "In this course, we’ve curated the most important tools people use in data science.",
+      "Learn them well. You’ll be alotmore productivethan your peers.",
+      "Here’s students’ feedback:",
+      "Take Graded assignment 1to check if you’re ready for this course.Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+      "You need agoodunderstanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
+      "But isn’t this a data science course?Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+      "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are,someof the time, you need to write code for all of this yourself.",
+      "This course teaches you tools that will make you more productive. But youdoneed programming to learn many of them.",
+      "YouCANcopy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
+      "Why should you copy?Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well.",
+      "To learn well, understandwhat you’re copying. If you’re short of time, prioritize.",
+      "To learn better, teachwhat you’ve learnt.",
+      "We cover 7 modules in 12 weeks",
+      "The content evolves with technology and feedback.\nTrack thecommit historyfor changes.",
+      "Released content:",
+      "Project 1to build an LLM-based automation agent.Discussion Thread",
+      "Work in progress:",
+      "Evaluations are mostly open Internet",
+      "Updates",
+      "Notes",
+      "Constantly check communications",
+      "Check these three links regularly to keep up with the course.",
+      "People who help you",
+      "Theirjobis to help you. Trouble them for your slightest doubts!",
+      "Course Links",
+      "Jan 2025 Links"
+    ]
   },
   {
     "section": "Editor: VS Code",
@@ -38,6 +86,536 @@
   {
     "section": "JavaScript tools: npx",
     "url": "https://tds.s-anand.net/#/2025-01//../npx",
+    "content": []
+  },
+  {
+    "section": "Unicode",
+    "url": "https://tds.s-anand.net/#/2025-01//../unicode",
+    "content": []
+  },
+  {
+    "section": "Browser: DevTools",
+    "url": "https://tds.s-anand.net/#/2025-01//../devtools",
+    "content": []
+  },
+  {
+    "section": "CSS Selectors",
+    "url": "https://tds.s-anand.net/#/2025-01//../css-selectors",
+    "content": []
+  },
+  {
+    "section": "JSON",
+    "url": "https://tds.s-anand.net/#/2025-01//../json",
+    "content": []
+  },
+  {
+    "section": "Terminal: Bash",
+    "url": "https://tds.s-anand.net/#/2025-01//../bash",
+    "content": []
+  },
+  {
+    "section": "Spreadsheet: Excel, Google Sheets",
+    "url": "https://tds.s-anand.net/#/2025-01//../spreadsheets",
+    "content": []
+  },
+  {
+    "section": "Database: SQLite",
+    "url": "https://tds.s-anand.net/#/2025-01//../sqlite",
+    "content": []
+  },
+  {
+    "section": "Version Control: Git, GitHub",
+    "url": "https://tds.s-anand.net/#/2025-01//../git",
+    "content": []
+  },
+  {
+    "section": "Deployment Tools",
+    "url": "https://tds.s-anand.net/#/2025-01//../deployment-tools",
+    "content": []
+  },
+  {
+    "section": "Markdown",
+    "url": "https://tds.s-anand.net/#/2025-01//../markdown",
+    "content": []
+  },
+  {
+    "section": "Images: Compression",
+    "url": "https://tds.s-anand.net/#/2025-01//../image-compression",
+    "content": []
+  },
+  {
+    "section": "Static hosting: GitHub Pages",
+    "url": "https://tds.s-anand.net/#/2025-01//../github-pages",
+    "content": []
+  },
+  {
+    "section": "Notebooks: Google Colab",
+    "url": "https://tds.s-anand.net/#/2025-01//../colab",
+    "content": []
+  },
+  {
+    "section": "Serverless hosting: Vercel",
+    "url": "https://tds.s-anand.net/#/2025-01//../vercel",
+    "content": []
+  },
+  {
+    "section": "CI/CD: GitHub Actions",
+    "url": "https://tds.s-anand.net/#/2025-01//../github-actions",
+    "content": []
+  },
+  {
+    "section": "Containers: Docker, Podman",
+    "url": "https://tds.s-anand.net/#/2025-01//../docker",
+    "content": []
+  },
+  {
+    "section": "Tunneling: ngrok",
+    "url": "https://tds.s-anand.net/#/2025-01//../ngrok",
+    "content": []
+  },
+  {
+    "section": "CORS",
+    "url": "https://tds.s-anand.net/#/2025-01//../cors",
+    "content": []
+  },
+  {
+    "section": "REST APIs",
+    "url": "https://tds.s-anand.net/#/2025-01//../rest-apis",
+    "content": []
+  },
+  {
+    "section": "Web Framework: FastAPI",
+    "url": "https://tds.s-anand.net/#/2025-01//../fastapi",
+    "content": []
+  },
+  {
+    "section": "Local LLMs: Llamafile",
+    "url": "https://tds.s-anand.net/#/2025-01//../llamafile",
+    "content": []
+  },
+  {
+    "section": "Large Language Models",
+    "url": "https://tds.s-anand.net/#/2025-01//../large-language-models",
+    "content": []
+  },
+  {
+    "section": "Prompt engineering",
+    "url": "https://tds.s-anand.net/#/2025-01//../prompt-engineering",
+    "content": []
+  },
+  {
+    "section": "TDS TA Instructions",
+    "url": "https://tds.s-anand.net/#/2025-01//../tds-ta-instructions",
+    "content": []
+  },
+  {
+    "section": "TDS GPT Reviewer",
+    "url": "https://tds.s-anand.net/#/2025-01//../tds-gpt-reviewer",
+    "content": []
+  },
+  {
+    "section": "LLM Sentiment Analysis",
+    "url": "https://tds.s-anand.net/#/2025-01//../llm-sentiment-analysis",
+    "content": []
+  },
+  {
+    "section": "LLM Text Extraction",
+    "url": "https://tds.s-anand.net/#/2025-01//../llm-text-extraction",
+    "content": []
+  },
+  {
+    "section": "Base 64 Encoding",
+    "url": "https://tds.s-anand.net/#/2025-01//../base64-encoding",
+    "content": []
+  },
+  {
+    "section": "Vision Models",
+    "url": "https://tds.s-anand.net/#/2025-01//../vision-models",
+    "content": []
+  },
+  {
+    "section": "Embeddings",
+    "url": "https://tds.s-anand.net/#/2025-01//../embeddings",
+    "content": []
+  },
+  {
+    "section": "Topic modeling",
+    "url": "https://tds.s-anand.net/#/2025-01//../topic-modeling",
+    "content": []
+  },
+  {
+    "section": "Vector databases",
+    "url": "https://tds.s-anand.net/#/2025-01//../vector-databases",
+    "content": []
+  },
+  {
+    "section": "Retrieval Augmented Generation",
+    "url": "https://tds.s-anand.net/#/2025-01//../retrieval-augmented-generation",
+    "content": []
+  },
+  {
+    "section": "Function Calling",
+    "url": "https://tds.s-anand.net/#/2025-01//../function-calling",
+    "content": []
+  },
+  {
+    "section": "Project 1",
+    "url": "https://tds.s-anand.net/#/2025-01//../project-1",
+    "content": []
+  },
+  {
+    "section": "Data Sourcing",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-sourcing",
+    "content": []
+  },
+  {
+    "section": "Scraping with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-with-excel",
+    "content": []
+  },
+  {
+    "section": "Scraping with Google Sheets",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-with-google-sheets",
+    "content": []
+  },
+  {
+    "section": "BBC Weather API with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../bbc-weather-api-with-python",
+    "content": []
+  },
+  {
+    "section": "Scraping IMDb with JavaScript",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-imdb-with-javascript",
+    "content": []
+  },
+  {
+    "section": "Nominatim API with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../nominatim-api-with-python",
+    "content": []
+  },
+  {
+    "section": "Wikipedia Data with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../wikipedia-data-with-python",
+    "content": []
+  },
+  {
+    "section": "Scraping PDFs with Tabula",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-pdfs-with-tabula",
+    "content": []
+  },
+  {
+    "section": "Convert PDFs to Markdown",
+    "url": "https://tds.s-anand.net/#/2025-01//../convert-pdfs-to-markdown",
+    "content": []
+  },
+  {
+    "section": "LLM Website Scraping",
+    "url": "https://tds.s-anand.net/#/2025-01//../llm-website-scraping",
+    "content": []
+  },
+  {
+    "section": "LLM Video Screen-Scraping",
+    "url": "https://tds.s-anand.net/#/2025-01//../llm-video-screen-scraping",
+    "content": []
+  },
+  {
+    "section": "Scheduled Scraping with GitHub Actions",
+    "url": "https://tds.s-anand.net/#/2025-01//../scheduled-scraping-with-github-actions",
+    "content": []
+  },
+  {
+    "section": "Scraping emarketer.com",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-emarketer",
+    "content": []
+  },
+  {
+    "section": "Scraping: Live Sessions",
+    "url": "https://tds.s-anand.net/#/2025-01//../scraping-live-sessions",
+    "content": []
+  },
+  {
+    "section": "Data Preparation",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-preparation",
+    "content": []
+  },
+  {
+    "section": "Data Cleansing in Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-cleansing-in-excel",
+    "content": []
+  },
+  {
+    "section": "Data Transformation in Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-transformation-in-excel",
+    "content": []
+  },
+  {
+    "section": "Splitting Text in Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../splitting-text-in-excel",
+    "content": []
+  },
+  {
+    "section": "Data Aggregation in Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-aggregation-in-excel",
+    "content": []
+  },
+  {
+    "section": "Data Preparation in the Shell",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-preparation-in-the-shell",
+    "content": []
+  },
+  {
+    "section": "Data Preparation in the Editor",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-preparation-in-the-editor",
+    "content": []
+  },
+  {
+    "section": "Cleaning Data with OpenRefine",
+    "url": "https://tds.s-anand.net/#/2025-01//../cleaning-data-with-openrefine",
+    "content": []
+  },
+  {
+    "section": "Profiling Data with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../profiling-data-with-python",
+    "content": []
+  },
+  {
+    "section": "Parsing JSON",
+    "url": "https://tds.s-anand.net/#/2025-01//../parsing-json",
+    "content": []
+  },
+  {
+    "section": "Transforming Images",
+    "url": "https://tds.s-anand.net/#/2025-01//../transforming-images",
+    "content": []
+  },
+  {
+    "section": "Extracting Audio and Transcripts",
+    "url": "https://tds.s-anand.net/#/2025-01//../extracting-audio-and-transcripts",
+    "content": []
+  },
+  {
+    "section": "Data Analysis",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-analysis",
+    "content": []
+  },
+  {
+    "section": "Correlation with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../correlation-with-excel",
+    "content": []
+  },
+  {
+    "section": "Regression with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../regression-with-excel",
+    "content": []
+  },
+  {
+    "section": "Forecasting with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../forecasting-with-excel",
+    "content": []
+  },
+  {
+    "section": "Outlier Detection with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../outlier-detection-with-excel",
+    "content": []
+  },
+  {
+    "section": "Data Analysis with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-analysis-with-python",
+    "content": []
+  },
+  {
+    "section": "Data Analysis with SQL",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-analysis-with-sql",
+    "content": []
+  },
+  {
+    "section": "Data Analysis with DuckDB",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-analysis-with-duckdb",
+    "content": []
+  },
+  {
+    "section": "Geospatial Analysis with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../geospatial-analysis-with-excel",
+    "content": []
+  },
+  {
+    "section": "Geospatial Analysis with Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../geospatial-analysis-with-python",
+    "content": []
+  },
+  {
+    "section": "Geospatial Analysis with QGIS",
+    "url": "https://tds.s-anand.net/#/2025-01//../geospatial-analysis-with-qgis",
+    "content": []
+  },
+  {
+    "section": "Network Analysis in Python",
+    "url": "https://tds.s-anand.net/#/2025-01//../network-analysis-in-python",
+    "content": []
+  },
+  {
+    "section": "Visualizing Machine Learning",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-machine-learning",
+    "content": []
+  },
+  {
+    "section": "Project 2",
+    "url": "https://tds.s-anand.net/#/2025-01//../project-2",
+    "content": []
+  },
+  {
+    "section": "Data Visualization",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-visualization",
+    "content": []
+  },
+  {
+    "section": "Visualizing Forecasts with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-forecasts-with-excel",
+    "content": []
+  },
+  {
+    "section": "Visualizing Animated Data with PowerPoint",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-animated-data-with-powerpoint",
+    "content": []
+  },
+  {
+    "section": "Visualizing Animated Data with Flourish",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-animated-data-with-flourish",
+    "content": []
+  },
+  {
+    "section": "Visualizing Network Data with Kumu",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-network-data-with-kumu",
+    "content": []
+  },
+  {
+    "section": "Visualizing Charts with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../visualizing-charts-with-excel",
+    "content": []
+  },
+  {
+    "section": "Data Visualization with Seaborn",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-visualization-with-seaborn",
+    "content": []
+  },
+  {
+    "section": "Google Charts",
+    "url": "https://tds.s-anand.net/#/2025-01//../google-charts",
+    "content": []
+  },
+  {
+    "section": "Google Data Studio",
+    "url": "https://tds.s-anand.net/#/2025-01//../google-data-studio",
+    "content": []
+  },
+  {
+    "section": "Actor Network Visualization",
+    "url": "https://tds.s-anand.net/#/2025-01//../actor-network-visualization",
+    "content": []
+  },
+  {
+    "section": "RAWgraphs",
+    "url": "https://tds.s-anand.net/#/2025-01//../rawgraphs",
+    "content": []
+  },
+  {
+    "section": "Data Storytelling",
+    "url": "https://tds.s-anand.net/#/2025-01//../data-storytelling",
+    "content": []
+  },
+  {
+    "section": "Interactive Notebooks: Marimo",
+    "url": "https://tds.s-anand.net/#/2025-01//../marimo",
+    "content": []
+  },
+  {
+    "section": "Narratives with Excel",
+    "url": "https://tds.s-anand.net/#/2025-01//../narratives-with-excel",
+    "content": []
+  },
+  {
+    "section": "Narratives with Comics",
+    "url": "https://tds.s-anand.net/#/2025-01//../narratives-with-comics",
+    "content": []
+  },
+  {
+    "section": "Live Sessions",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-sessions",
+    "content": []
+  },
+  {
+    "section": "15 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-15",
+    "content": []
+  },
+  {
+    "section": "16 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-16",
+    "content": []
+  },
+  {
+    "section": "17 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-17",
+    "content": []
+  },
+  {
+    "section": "20 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-20",
+    "content": []
+  },
+  {
+    "section": "21 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-21",
+    "content": []
+  },
+  {
+    "section": "22 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-22",
+    "content": []
+  },
+  {
+    "section": "23 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-23",
+    "content": []
+  },
+  {
+    "section": "28 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-28",
+    "content": []
+  },
+  {
+    "section": "29 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-29",
+    "content": []
+  },
+  {
+    "section": "30 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-30",
+    "content": []
+  },
+  {
+    "section": "31 Jan 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-01-31",
+    "content": []
+  },
+  {
+    "section": "01 Feb 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-02-01",
+    "content": []
+  },
+  {
+    "section": "04 Feb 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-02-04",
+    "content": []
+  },
+  {
+    "section": "06 Feb 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-02-06",
+    "content": []
+  },
+  {
+    "section": "07 Feb 2025",
+    "url": "https://tds.s-anand.net/#/2025-01//../live-session-2025-02-07",
     "content": []
   }
 ]
