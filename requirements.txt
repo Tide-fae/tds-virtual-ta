@@ -1,21 +1,29 @@
+# Core
 fastapi==0.103.2
 uvicorn==0.23.2
-python-dotenv==1.0.0
-beautifulsoup4==4.12.2
-requests==2.31.0
-langchain==0.1.14
+pydantic==1.10.13
+
+# LangChain Ecosystem (safe single package)
+langchain==0.1.14   # ✅ Latest stable as of June 2025
+
+# RAG Components
 sentence-transformers==2.2.2
-huggingface-hub==0.19.4
 faiss-cpu==1.7.4
 tiktoken==0.5.1
-pydantic==1.10.13
-numpy==1.24.4
+
+# Scraping
+selenium==4.10.0
+webdriver-manager==3.8.6
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
 gunicorn==20.1.0
 typing-extensions==4.7.1
-webdriver-manager==4.0.1
-selenium==4.10.0
+numpy==1.24.4
 
-# ✅ CPU-only PyTorch - avoids huge CUDA downloads
+# PyTorch (CPU only)
 torch==2.0.1+cpu
 torchvision==0.15.2+cpu
 torchaudio==2.0.2+cpu
